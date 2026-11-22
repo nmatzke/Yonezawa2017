@@ -1,0 +1,28 @@
+Citation:
+
+Yonezawa, Takahiro, et al. (2017). Phylogenomics and Morphology of Extinct Paleognaths Reveal the Origin and Evolution of the Ratites. Current Biology, 27, 68-77. 
+https://www.cell.com/current-biology/fulltext/S0960-9822(16)31214-3 
+DOI: http://dx.doi.org/10.1016/j.cub.2016.10.029
+
+Supplemental files originally available at: http://aepyornis.paleogenome.jp/ . 
+
+Wayback archive lists files:
+
+https://web.archive.org/web/20220701000000*/http://aepyornis.paleogenome.jp/
+https://web.archive.org/web/20230922014041/http://aepyornis.paleogenome.jp/
+ 
+Abstract:
+
+Summary
+
+The Palaeognathae comprise the flightless ratites and the volant tinamous, and together with the Neognathae constitute the extant members of class Aves. It is commonly believed that Palaeognathae originated in Gondwana since most of the living species are found in the Southern Hemisphere [1–3]. However, this hypothesis has been questioned because the fossil paleognaths are mostly from the Northern Hemisphere in their earliest time (Paleocene) and possessed many putative ancestral characters [4]. Uncertainties regarding the origin and evolution of Palaeognathae stem from the difficulty in estimating their divergence times [1, 2] and their remarkable morphological convergence. Here, we recovered nuclear genome fragments from extinct elephant birds, which enabled us to reconstruct a reliable phylogenomic time tree for the Palaeognathae. Based on the tree, we identified homoplasies in morphological traits of paleognaths and reconstructed their morphology-based phylogeny including fossil species without molecular data. In contrast to the prevailing theories, the fossil paleognaths from the Northern Hemisphere were placed as the basal lineages. Combined with our stable divergence time estimates that enabled a valid argument regarding the correlation with geological events, we propose a new evolutionary scenario that contradicts the traditional view. The ancestral Palaeognathae were volant, as estimated from their molecular evolutionary rates, and originated during the Late Cretaceous in the Northern Hemisphere. They migrated to the Southern Hemisphere and speciated explosively around the Cretaceous-Paleogene boundary. They then extended their distribution to the Gondwana-derived landmasses, such as New Zealand and Madagascar, by overseas dispersal. Gigantism subsequently occurred independently on each landmass.
+
+Keywords
+Palaeognathae
+ancient DNA
+Aepyornis
+Mullerornis
+Lithornis
+
+
+
